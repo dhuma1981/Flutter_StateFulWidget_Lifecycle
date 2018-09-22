@@ -1,6 +1,4 @@
-# stateful_widget_lifecycle
-
-Stateful Widget Lifecycle
+# Flutter Stateful Widget Lifecycle
 
 Stateful Widget create state using State Class.
 
